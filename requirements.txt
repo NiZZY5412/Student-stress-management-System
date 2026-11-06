@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+passlib[bcrypt]
+python-multipart
+python-jose[cryptography]
+scikit-learn==1.8.0
+joblib
+pandas
+pydantic[email]
+email-validator
+bcrypt==3.2.0
+openai
+httpx
+python-dotenv
+python-dateutil
